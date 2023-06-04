@@ -3,7 +3,7 @@ package org.example;
 import java.util.*;
 
 public class ScoreBoard {
-    private Map<String, int[]> games;
+    private final Map<String, int[]> games;
 
     public ScoreBoard() {
         games = new LinkedHashMap<>();
