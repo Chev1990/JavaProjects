@@ -13,4 +13,5 @@ Creates empty ScoreBoard object and initializes variable with empty ordered map 
 shows how to use ScoreBoard to start games, update scores, and get game summaries.
 A scoreboard object of the ScoreBoard class is created.
 Summary of the games is obtained using the getSummary method, and the results are printed to the console.
+
 Tests are in test/java/org/example.
